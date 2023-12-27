@@ -11,3 +11,12 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#Carousel{
+  max-height: 300px;
+}
+
+#card{
+  max-height: 50px;
+  max-width: 50px;
+}
